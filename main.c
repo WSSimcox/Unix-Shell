@@ -5,7 +5,7 @@
 #include <fcntl.h>
 #include <stdlib.h>
 
-// Created by William Simcox for CSS 430
+// Created by William Simcox
 
 #define MAX_LINE 80 // The maximum length command
 
